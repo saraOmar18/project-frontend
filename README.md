@@ -34,10 +34,10 @@ Parent Story:
 - Postman
 
 ## Wirframes
-![wirfreme](www.png)
-![wirfreme](wir.png)
+![wirfreme](byyy.png)
+![wirfreme](hii.png)
 ![wirfreme](kkkk.png)
-![wirfreme](frame.png)
+![wirfreme](lllll.png)
 
 ## ER Diagram
 ![ER Diagram](image.png)

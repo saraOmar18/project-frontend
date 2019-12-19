@@ -30,7 +30,8 @@ Parent Story:
 - React
 - express 
 - API
-- visualcode 
+- Visual Studio Code 
+- Postman
 
 ## Wirframes
 ![wirfreme](www.png)

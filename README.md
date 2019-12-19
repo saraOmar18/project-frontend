@@ -6,7 +6,7 @@ Our children needs the best of what we can give them, parents provide unconditio
 always looking to develop their kids socially to build their personalities, their minds, and body, and in this
 busy lives searching and looking for the best suitable place that satisfies our needs we get lost
 searching, reading, this is why we developed (بارع ) to help our beloved parents meet their needs in
-one unified plat form that serves for different fields and for all ages.
+one unified platform that serves for different fields and for all ages.
 
 
 

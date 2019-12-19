@@ -21,7 +21,7 @@ childrens Activity
 - visualcode 
 
 ## screenshot
-![wirfreme](www.png)
-![wirfreme](wir.png)
+![wirfreme](byyy.png)
+![wirfreme](hii.png)
 ![wirfreme](kkkk.png)
-![wirfreme](frame.png)
+![wirfreme](lllll.png)

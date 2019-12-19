@@ -1,18 +1,30 @@
 ## Project Name:
-childrens Activity
+بارع 
 
 ## Description
->It's about activity centers for children, you can book for your kids 
-## demo
-[childrens activity](https://nawaldee21.github.io/MyCart)
+Our children needs the best of what we can give them, parents provide unconditional love, they are
+always looking to develop their kids socially to build their personalities, their minds, and body, and in this
+busy lives searching and looking for the best suitable place that satisfies our needs we get lost
+searching, reading, this is why we developed (بارع ) to help our beloved parents meet their needs in
+one unified plat form that serves for different fields and for all ages.
 
-## user Stories
-- As a user, I should be able to click on button regstir to sign-up.
-- As a user, i should be able to click on button to add center.
-- As a user, i should be able to click on button add.
-- As a user, i should be able to click on button my list to see all my cats.
-- As a user, i should be able to delete one pic.
-- As a user, i should be able to delete all photos
+
+
+## User Stories
+
+
+Parent Story:
+- As a parent I can sign in.
+- As a parent I can sign up.
+- As a parent I can log out.
+- As a parent I can update my profile.
+- As a parent I can add childrens. 
+- As a parent I can view all activity center. 
+- As a parent I can reigester my children in activity center. 
+- As a parent I can view activity center details. 
+- As a parent I can delete . 
+
+
 
 ## Technology:
 - React
@@ -20,8 +32,18 @@ childrens Activity
 - API
 - visualcode 
 
-## screenshot
+## Wirframes
 ![wirfreme](www.png)
 ![wirfreme](wir.png)
 ![wirfreme](kkkk.png)
 ![wirfreme](frame.png)
+
+
+## Future Work 
+- Register children in more than one center 
+- Adding Comments for Centers 
+- Rating 
+- Category and Filters for Centers
+- Adding diffrent classes for each center 
+- Payment after Booking a class 
+- Schedule Activities 

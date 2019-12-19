@@ -40,7 +40,7 @@ Parent Story:
 ![wirfreme](frame.png)
 
 ## ER Diagram
-https://app.creately.com/diagram/l1fXLEZAFs0/edit
+![ER Diagram](image.png)
 
 ## Future Work 
 - Register children in more than one center 
